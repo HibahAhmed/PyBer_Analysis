@@ -16,4 +16,4 @@ The results determined that the Urban area was making the most profit and Rural 
 
 ## Challenge Overview
 
-Overall a line graph was shown to display the results using Matplotlib. Some recommendations I have for improving include urban public transportation and expanding it towards suburban areas. Creating incentives to encourage more drivers to utilize the transportation service. Lastly, because total drivers and riders are inversely proportional, we should work towards decreasing the number of drivers, which would increase the use of transportation services.
+Overall, a line graph was shown to display the results using Matplotlib. Some recommendations I have for improving include urban public transportation and expanding it towards suburban areas. Creating incentives to encourage more drivers to utilize the transportation service. Lastly, because total drivers and riders are inversely proportional, we should work towards decreasing the number of drivers, which would increase the use of transportation services.
