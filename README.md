@@ -7,7 +7,7 @@ The purpose of the project is to analyze the data of PyBer, a python based ride 
 
 The results determined that the Urban area was making the most profit and Rural was making the least amount. The rural had 125 total rides, suburban had 625, and lastly, urban had 1625. The average fare per ride seemed to demonstrate the rural has having the least average far and urban had the most. 
 
-![step #8](https://user-images.githubusercontent.com/95547517/151305563-8160a140-1cb7-4842-a30f-6907696f6ce3.PNG)
+![image](https://user-images.githubusercontent.com/95547517/155647104-022ef543-802e-4673-8ccf-dece7bdc6340.png)
 
 ### Fares based on city type:
 
